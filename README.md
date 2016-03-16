@@ -1,2 +1,3 @@
 # hello-world
-Just another repositor
+Just another repository
+Write a bit about yourself.
